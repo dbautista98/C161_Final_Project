@@ -1,6 +1,6 @@
 # C161_Final_Project
 
-GW150914:
+## GW150914:
 
 file names:
 
@@ -18,7 +18,7 @@ chirp mass [M sun]:
 
 
 
-GW170184
+## GW170184
 
 file names:
 
